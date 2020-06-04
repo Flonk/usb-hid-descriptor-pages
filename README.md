@@ -8,4 +8,4 @@ I can only assume a lot of these codes are vendor-specific and hardly useful but
 
 It's entirely possible that I overlooked a few values or put in some typos, use at your own risk.
 
-I might turn this into a full-fledged USB HID validation tool eventually but knowing myself probably not.
+I might turn this into a fully-fledged USB HID validation tool eventually but knowing myself probably not.
